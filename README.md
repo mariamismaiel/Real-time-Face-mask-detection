@@ -12,4 +12,5 @@ The model achieved an impressive accuracy of 98% on the testing dataset. This hi
 To test the project, you can download the the trained model then run the test script provided in the GitHub repository. The script utilizes real-time video capture and face detection using Haar cascades. It then applies the trained model to classify faces as either wearing masks or not. This real-time face mask detection system provides an efficient way to monitor mask compliance and ensure public safety.
 
 Dataset Link: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
+
 The trained model link: https://www.kaggle.com/datasets/mariamismaiel/maskdetectionmodel
