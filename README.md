@@ -14,3 +14,15 @@ To test the project, you can download the the trained model then run the test sc
 Dataset Link: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
 
 The trained model link: https://www.kaggle.com/datasets/mariamismaiel/maskdetectionmodel
+
+
+
+The updated version of the code utilizes two datasets that contain different poses to enhance the accuracy of the classification. This ensures that the model can distinguish between a person wearing a mask and a person covering their mouth with their hands, as it has been trained to recognize different poses. Therefore, if a person puts their hands on their mouth, it will not be considered as wearing a mask.
+
+Dataset
+The two datasets used in this project are:
+
+[1] https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset/versions/1
+[2] https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset/versions/1
+
+The trained model link: https://www.kaggle.com/datasets/mariamismaiel/newmodel
